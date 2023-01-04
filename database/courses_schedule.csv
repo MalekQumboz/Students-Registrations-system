@@ -1,0 +1,5 @@
+course_schedule_id,course_id,day,duration,start_time
+1,113,friday,3,16:00:00
+2,112,sunday,2,16:30:00
+3,110,sunday,2,16:00:00
+9,111,sunday,3,16:30:00

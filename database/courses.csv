@@ -1,0 +1,5 @@
+course_id,level_id,course_name,max_capacity,rate_per_hour,total_hours
+110,2,math2,25,50,60
+111,1,ttttt,25,80,60
+112,1,lll,2,50,120
+113,2,jjj,2,60,120
